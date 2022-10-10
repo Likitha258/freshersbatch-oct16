@@ -1,3 +1,3 @@
 Assignments regarding the git
-completing the assignemnts
+completing the assignemnt
 
